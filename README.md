@@ -42,3 +42,4 @@ to learn more open this website https://pypi.org/project/folium/
 then install it from your environment like i use PyCharm so all what you need to do to press right click at the red lamp and install it there. :D 
 i Wish that explanation is useful best luck and best wishes. 
 enjoy with your first map...........
+Abdullah :) 
